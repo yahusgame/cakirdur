@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cakirdur
 - 👀 I’m interested in game development
-- 🌱 I’m currently learning unity and C#
+- 🌱 I’m currently learning unity and  C#
 - 💞️ I’m looking to collaborate on the other game developers
 - 📫 How to reach me to yahusgame@gmail.com
 - 😄 Pronouns: i'm the perfect
